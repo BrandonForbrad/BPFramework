@@ -5,7 +5,7 @@ Download BPFramework file and put it under your ServerScriptService
 By forbrad
 
 Join my discord: https://discord.gg/2B3vBzqnhT
-
+Youtube Tutorial: https://www.youtube.com/watch?v=3Df70TJZunI
 # Roblox BP Framework
 
 This is a simple roblox framework for people who just wanna use a well made framework in roblox studio
