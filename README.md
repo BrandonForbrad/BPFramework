@@ -7,7 +7,7 @@ By forbrad
 Join my discord: https://discord.gg/2B3vBzqnhT
 Youtube Introduction Tutorial: https://www.youtube.com/watch?v=3Df70TJZunI
 Youtube Util/PlayerLoaded threading (V1.1): https://www.youtube.com/watch?v=6YmqBxVvfsI
-# Roblox BP Framework
+# Roblox BP Framework V1.1
 
 This is a simple roblox framework for people who just wanna use a well made framework in roblox studio
 
